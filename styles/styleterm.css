@@ -1,0 +1,29 @@
+.{margin:0;padding:0;}
+body{font-family:arial;font-size:10px;line-height:20px;color:#737373;background:url(../images/background_pattern_line_shape_texture_50880_1280x720.jpg)fixed;}
+
+.main{width:960px;margin:auto;display:block;overflow:hidden;background:gray;}
+.heading{text-align:center;font-size:15px;color:black;border:1px solid black;font-family:arial;}
+.header{}
+.header img{width:960px;height:200px;overflow:hidden;}
+.main_menu{background:yellow;overflow:hidden;}
+.main_menu ul{margin:0;padding:0;list-style:none;}
+.main_menu ul li{float:left;border-right:1 px solid #E5E5E5;}
+.main_menu ul li a{display:block;color:black;padding:10px 20px;text-decoration:none;font-size:15px;font-family:COMIC SANS MS;font-weight:10;}
+.main_menu ul li a:hover{background:black;color:white;font-weight:bolder;}
+.content{margin:auto;width:960px;overflow:hidden;background:white;}
+.sidebar{float:left;background:orange;width:240px;padding:0;}
+.sidebar_title{background:white;color:black;font-size:22px;font-family:arial;padding:10px;}
+.sidebar ul{margin:0;padding:0;list-style:none;}
+.sidebar ul li{padding:5px;margin:5px;}
+.sidebar ul li a{text-align:center;display:block;color:white;padding:10px 10px;text-decoration:none;font-size:15px;font-family:COMIC SANS MS;margin:5px;}
+.sidebar ul li a:hover{background:red;color:black;font-weight:bolder;}
+.main_content{width:960px;overflow:hidden;float:right;}
+.main_content img{margin-left:310px;}
+.para{font-size:12px;color:red;margin-right:10px;margin-left:10px;}
+.main_content p{margin_bottom:5 px;}
+.footer{background:#333;color:#fff;height:240px;overflow:hidden;}
+.footer p{font-size:15px;}
+.email{width:450px;float:left;overflow:hidden;margin-left:5px;}
+.phn{width:510;float:right;overflow:hidden;margin-left:300px;}
+.logo{height:100px;}
+.logo img{width:100px;height:80px;margin-right:70px;}
